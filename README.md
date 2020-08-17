@@ -29,8 +29,8 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 ```text
 JSON         39 mins         ████████░░░░░░░░░░░░░░░░░   32.30 % 
 YAML         34 mins         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-TypeScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Other        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+TypeScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Other        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Markdown     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 ```
 <!--END_SECTION:waka-->
