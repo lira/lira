@@ -23,6 +23,10 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 [![Dev.to Badge](http://img.shields.io/badge/-lira-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/lira)](https://dev.to/lira)
 [![HitCount](http://hits.dwyl.com/lira/lira/lira.svg)](http://hits.dwyl.com/lira/lira/lira)
 
+## Top Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lira&langs_count=8)](https://github.com/lira)
+
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
