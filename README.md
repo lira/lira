@@ -21,7 +21,6 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 [![Linkedin Badge](http://img.shields.io/badge/-liraf-black?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/liraf)](https://linkedin.com/in/liraf/)
 [![Medium Badge](http://img.shields.io/badge/-liraf-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@liraf)](https://medium.com/@liraf)
 [![Dev.to Badge](http://img.shields.io/badge/-lira-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/lira)](https://dev.to/lira)
-[![HitCount](http://hits.dwyl.com/lira/lira/lira.svg)](http://hits.dwyl.com/lira/lira/lira)
 
 ## Top Linguagens
 
