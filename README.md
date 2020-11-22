@@ -30,10 +30,10 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   43.03 % 
-sh           3 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-Other        2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-PHP          53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript   4 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   39.21 % 
+Other        3 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   30.85 % 
+sh           2 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.84 % 
+PHP          53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
