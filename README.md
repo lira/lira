@@ -24,7 +24,7 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 
 ## Top Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lira&langs_count=8)](https://github.com/lira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lira&langs_count=8&theme=dark)](https://github.com/lira)
 
 ## Wakatime Stats
 
