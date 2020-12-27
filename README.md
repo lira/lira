@@ -30,10 +30,10 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 
 <!--START_SECTION:waka-->
 ```text
-PHP     11 hrs 24 mins  █████████████████████▒░░░   85.47 % 
-sh      59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-CSV     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Other   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-HTML    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+PHP     6 hrs 40 mins   ████████████████████░░░░░   80.36 % 
+sh      45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+CSV     31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+HTML    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
