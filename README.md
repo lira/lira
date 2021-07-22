@@ -9,7 +9,7 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 - :joystick: Já fiz um podcast, sobre games. Foi uma experiência muito legal. 
   - Foi o [Devoradores de Controles](https://github.com/devoradores), junto com o Edu e o Dalton.
   - Estamos no [Spotify](https://open.spotify.com/show/4COx58umy24aHi45d4BG14?si=Zvwo435PSXyOwwiamNM6zQ)
-- :speaking_head: Trabalhei como suporte via telefone, por de entrada para o mundo de TI empresárial, até então eram meus sites pessoais.
+- :speaking_head: Trabalhei como suporte via telefone, porta de entrada para o mundo de TI empresárial, até então eram só meus sites pessoais.
   - Já ouvi pessoas fechando a janela de casa ao invés do Internet Explorer. :art: :older_man:
   - Pessoas com medo do erro 666 de modem :imp:
 - :books: Já publiquei uma extensão no www.phpbrasil.com.
