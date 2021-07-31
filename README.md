@@ -2,6 +2,10 @@
 
 Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Mas já fiz de tudo um pouco em tecnologia, mas quem não né? :stuck_out_tongue_closed_eyes:
 
+<p align="center">
+  <img src="https://github.com/lira/lira/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## Algumas coisas :video_game:
 
 - :exploding_head: Gosto de jogos :godmode:, já joguei muitos emuladores, economizei muitas fichas :trollface:.
