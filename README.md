@@ -35,10 +35,10 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 
 <!--START_SECTION:waka-->
 ```text
-PHP               1 hr 16 mins    ██████████████▓░░░░░░░░░░   59.20 % 
-Gettext Catalog   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Markdown          17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Other             7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Text              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+PHP               1 hr 16 mins    ███████████████▓░░░░░░░░░   62.64 % 
+Gettext Catalog   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Markdown          17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Text              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Go                3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 <!--END_SECTION:waka-->
