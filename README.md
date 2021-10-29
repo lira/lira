@@ -35,8 +35,7 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   12 mins         ███████████████▒░░░░░░░░░   61.20 % 
-Other      3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-PHP        3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Other   3 mins          ████████████▓░░░░░░░░░░░░   50.73 % 
+PHP     3 mins          ████████████▒░░░░░░░░░░░░   49.27 % 
 ```
 <!--END_SECTION:waka-->
