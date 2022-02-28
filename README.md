@@ -34,11 +34,10 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-PHP          2 hrs 10 mins   ████████████▓░░░░░░░░░░░░   51.26 % 
-Other        1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.73 % 
-JavaScript   41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-textmate     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Smarty       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+PHP              2 hrs 10 mins   ████████████▓░░░░░░░░░░░░   51.26 %
+Other            1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
 ```
+
 <!--END_SECTION:waka-->
