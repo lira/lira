@@ -36,8 +36,7 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   33 mins         █████████████████████▓░░░   86.95 %
-PHP          5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+TypeScript   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
