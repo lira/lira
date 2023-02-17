@@ -36,11 +36,7 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                24 mins         ███████████████████░░░░░░   76.22 %
-HTTP Request          5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-XML                   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-SmartyConfig          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Cookie storage file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
