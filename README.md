@@ -36,8 +36,10 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-Go         31 mins         ████████████████████████▓   99.18 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+XML            1 min           █████████████████████▒░░░   84.74 %
+Kotlin         0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+SmartyConfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
