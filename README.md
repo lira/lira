@@ -36,7 +36,7 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-Other   19 mins         ██████████████████░░░░░░░   71.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
