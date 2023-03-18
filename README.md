@@ -36,7 +36,12 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SmartyConfig   8 mins          █████████▓░░░░░░░░░░░░░░░   38.87 %
+PHP            7 mins          ████████▓░░░░░░░░░░░░░░░░   34.28 %
+Lua            3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+lir            1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Go             1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
