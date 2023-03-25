@@ -36,12 +36,12 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-SmartyConfig   8 mins          ████████▒░░░░░░░░░░░░░░░░   33.80 %
-PHP            7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.81 %
-Bash           3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Lua            3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-lir            1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Go             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+TOML         25 mins         ████████████▒░░░░░░░░░░░░   49.78 %
+Rust         16 mins         ████████░░░░░░░░░░░░░░░░░   31.47 %
+Git Config   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+Bash         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+lir          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
