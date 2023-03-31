@@ -36,9 +36,9 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-Rust         1 hr 15 mins    ████████▓░░░░░░░░░░░░░░░░   34.29 %
-TOML         48 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
-Other        42 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+Rust         1 hr 15 mins    ████████▒░░░░░░░░░░░░░░░░   33.39 %
+TOML         48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+Other        42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
 ```
 
 <!--END_SECTION:waka-->
