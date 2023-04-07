@@ -36,12 +36,12 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-Go               1 hr 47 mins    ██████████████████░░░░░░░   71.43 %
-YAML             16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Kotlin           11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Makefile         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-textmate         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Go               1 hr 47 mins    ███████████████████░░░░░░   76.11 %
+YAML             16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Makefile         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Markdown         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+textmate         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Kotlin           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
