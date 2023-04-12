@@ -36,7 +36,10 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go               1 hr 6 mins     ████████████████████████▓   98.96 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
