@@ -36,7 +36,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin           50 mins         ███████████████░░░░░░░░░░   60.40 %
+PHP              10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+YAML             7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Properties       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Markdown         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 ```
 
 <!--END_SECTION:waka-->
