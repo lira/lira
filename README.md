@@ -36,9 +36,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy     12 mins         ███████████████████████▒░   93.12 %
-Gradle     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Groovy       12 mins         ████████████▓░░░░░░░░░░░░   51.31 %
+TSConfig     5 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
+TypeScript   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Gradle       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
