@@ -36,9 +36,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min           █████████████████████░░░░   84.38 %
-TypeScript   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Go           2 mins          ███████████▓░░░░░░░░░░░░░   47.01 %
+JavaScript   1 min           ████████▓░░░░░░░░░░░░░░░░   34.37 %
+Ezhil        0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
