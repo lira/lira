@@ -36,7 +36,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              18 mins         ██████████████████▓░░░░░░   75.16 %
+Groovy            5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+Ezhil             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
