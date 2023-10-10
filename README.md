@@ -36,11 +36,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-Java              18 mins         ██████████████████▓░░░░░░   75.16 %
-Groovy            5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.25 %
-Ezhil             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Go                18 mins         ████████░░░░░░░░░░░░░░░░░   32.20 %
+Java              18 mins         ████████░░░░░░░░░░░░░░░░░   31.95 %
+ActionScript 3    6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Groovy            5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+GitIgnore file    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
