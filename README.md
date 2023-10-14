@@ -36,11 +36,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-Go               18 mins         ██████████████░░░░░░░░░░░   56.01 %
-ActionScript 3   6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-YAML             1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Bash             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Go               1 hr 15 mins    ████████████████████▒░░░░   80.83 %
+ActionScript 3   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Ezhil            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
