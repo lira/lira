@@ -36,8 +36,8 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   39 mins         ████████████████████▓░░░░   83.22 %
-Go    7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+Go    7 mins          ████████████████████▒░░░░   80.97 %
+SQL   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
 ```
 
 <!--END_SECTION:waka-->
