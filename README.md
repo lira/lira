@@ -2,9 +2,11 @@
 
 Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Mas já fiz de tudo um pouco em tecnologia, mas quem não né? :stuck_out_tongue_closed_eyes:
 
-<p align="center">
-  <img src="https://github.com/lira/lira/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lira/lira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lira/lira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lira/lira/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Algumas coisas :video_game:
 
