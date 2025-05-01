@@ -38,11 +38,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              2 hrs 57 mins   █████████████████▓░░░░░░░   70.66 %
-GitIgnore file   38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Other            17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-JavaScript       16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+PHP           2 hrs 33 mins   ████████████████████▒░░░░   80.69 %
+JavaScript    18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Other         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
