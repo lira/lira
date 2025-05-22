@@ -39,9 +39,9 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 
 ```txt
 PHP              2 hrs 57 mins   ████████████████████░░░░░   80.26 %
-Text             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-CSS              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-JavaScript       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Text             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+CSS              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+JavaScript       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 Docker           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
