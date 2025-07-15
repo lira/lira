@@ -38,8 +38,11 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    19 mins         ████████████████████████▓   99.24 %
-Text   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+PHP                 27 mins         █████████████▒░░░░░░░░░░░   53.13 %
+Gradle Kotlin DSL   13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
+JSON                9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+Docker              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Text                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
