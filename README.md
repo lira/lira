@@ -38,11 +38,8 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              18 mins         ██████████░░░░░░░░░░░░░░░   40.33 %
-Gettext Catalog   13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-JavaScript        12 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 %
-PHP               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+YAML         13 mins         ███████████████████▓░░░░░   78.34 %
+JavaScript   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
 ```
 
 <!--END_SECTION:waka-->
