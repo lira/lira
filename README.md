@@ -38,11 +38,7 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 18 mins    █████████▒░░░░░░░░░░░░░░░   37.65 %
-Other      52 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Docker     40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-Markdown   33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
