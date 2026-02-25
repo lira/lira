@@ -29,10 +29,6 @@ Aqui é o Fernando! :metal: sou desenvolvedor, voltado para aplicações web. Ma
 [![Medium Badge](http://img.shields.io/badge/-liraf-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@liraf)](https://medium.com/@liraf)
 [![Dev.to Badge](http://img.shields.io/badge/-lira-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/lira)](https://dev.to/lira)
 
-## Top Linguagens
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lira&langs_count=8&theme=dark)](https://github.com/lira)
-
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
